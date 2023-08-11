@@ -14,6 +14,8 @@ Then, install the dependencies:
 npm install
 # or
 yarn install
+# or
+pnpm install
 ```
 
 Finally, run the development server:
